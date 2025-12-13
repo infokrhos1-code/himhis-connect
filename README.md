@@ -1,6 +1,4 @@
 Last Update Version 3.9.3 2025.12.09-1
-
-
 # HIS Connection API สำหรับ nRefer, ISOnline, และ PHER Plus
 
 ## 1.การติดตั้ง
